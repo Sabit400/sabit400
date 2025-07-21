@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Master's degree in Information Systems.<br>My focus lies in Cybersecurity and Robotics.<br>I have a strong passion for acquiring new knowledge.<br>Currently, I am studying Machine Learning and Python.<br>In addition to my academic pursuits, I enjoy traveling, photography, content creation, and reading.
+I am currently pursuing a Master's degree in Information Systems.<br>My focus lies in Cybersecurity and Robotics.<br>I have a strong passion for acquiring new knowledge.<br>Currently, I am studying Cybersecurity and Python.<br>In addition to my academic pursuits, I enjoy traveling, photography, content creation, and reading.
 
 
 ## 🌐 Socials:

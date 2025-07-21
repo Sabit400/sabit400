@@ -14,6 +14,7 @@ I am currently pursuing a Master's degree in Information Systems.<br>My focus li
 - Splunk (simulated) ![Splunk (simulated)](https://img.shields.io/badge/Splunk%20(simulated)-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 - MITRE ATT&CK Navigator ![MITRE ATT&CK Navigator](https://img.shields.io/badge/MITRE%20ATT%26CK%20Navigator-003366?style=for-the-badge&logo=matrix&logoColor=white)  
 - Sysmon (theory)
+- [SOC](https://img.shields.io/badge/SOC%20(Security%20Operations%20Center)-1f2937?style=for-the-badge&logo=protonmail&logoColor=white)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 

@@ -16,7 +16,7 @@ I am currently pursuing a Master's degree in Information Systems.<br>My focus li
 - Sysmon (theory) ![Sysmon (theory)](https://img.shields.io/badge/Sysmon%20(theory)-4B0082?style=for-the-badge&logo=microsoft&logoColor=white)
 - SOC ![SOC](https://img.shields.io/badge/SOC%20(Security%20Operations%20Center)-1f2937?style=for-the-badge&logo=protonmail&logoColor=white)
 - TryHackMe ![TryHackMe](https://img.shields.io/badge/TryHackMe-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white)
-- BTLO (Blue Team Labs Online) ![BTLO](https://img.shields.io/badge/BTLO%20(Blue%20Team%20Labs%20Online)-0a0a23?style=for-the-badge&logo=shield&logoColor=00bfff)
+- ![BTLO](https://img.shields.io/badge/BTLO%20(Blue%20Team%20Labs%20Online)-0a0a23?style=for-the-badge&logo=shield&logoColor=00bfff)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 

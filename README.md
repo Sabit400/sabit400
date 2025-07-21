@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Master's degree in Information Systems.<br>My focus lies in Machine Learning and Robotics.<br>I have a strong passion for acquiring new knowledge.<br>Currently, I am studying Machine Learning and Python.<br>In addition to my academic pursuits, I enjoy traveling, photography, content creation, and reading.
+I am currently pursuing a Master's degree in Information Systems.<br>My focus lies in Cybersecurity and Robotics.<br>I have a strong passion for acquiring new knowledge.<br>Currently, I am studying Machine Learning and Python.<br>In addition to my academic pursuits, I enjoy traveling, photography, content creation, and reading.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,6 @@ I am currently pursuing a Master's degree in Information Systems.<br>My focus li
 - Splunk (simulated) ![Splunk (simulated)](https://img.shields.io/badge/Splunk%20(simulated)-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 - MITRE ATT&CK Navigator ![MITRE ATT&CK Navigator](https://img.shields.io/badge/MITRE%20ATT%26CK%20Navigator-003366?style=for-the-badge&logo=matrix&logoColor=white)  
 - Sysmon (theory)
-- 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
